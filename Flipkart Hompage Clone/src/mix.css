@@ -1,0 +1,86 @@
+.searchBtn{
+    padding: 9px;
+    
+}
+
+.tdn{
+    text-decoration: none;
+}
+
+.CatoImage{
+    height: 70px;
+}
+
+.overBtn{
+    position: absolute;
+    top:360px;
+    left:555px;
+    border-radius:200px;
+    background: none;
+
+}
+
+.upperPart{
+    border-bottom: 1px solid rgba(0,0,0, 0.2)}
+
+.ma{
+    margin:  auto;
+}
+
+
+.bannerBox{
+    background: rgb(235, 216, 0)
+}
+
+.cont{
+    border-bottom: 1px solid 0.3 #000;
+}
+
+.movers{
+    top:300px
+}
+
+
+.footLinksList{
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    justify-content: left;
+}
+
+.footLinkItem{
+    
+    margin: 7px;
+    text-align:left
+}
+
+.footLink{
+    color:white;
+    text-decoration: none;
+}
+
+.footer,.footerMain,.aboutBox{
+    background: #172337;
+}
+
+
+
+.selfLinks{
+    border-left: 1px solid rgba(255, 255, 255, 0.5)
+}
+
+
+.footerMain{
+    padding-bottom: 20px;
+}
+
+
+.footImg{
+    width: 40px;
+}
+
+
+.copyright{
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+    
+}
