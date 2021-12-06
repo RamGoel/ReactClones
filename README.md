@@ -3,12 +3,14 @@ Website Clones made in React.
 
 
 
-<h2>Flipkart Home Page Clone in React
+<ul>
+  <li>Flipkart Home Page Clone in React</li>
 <br>
-  Facebook Home Page Clone in React
+  <li>
+    Facebook Home Page Clone in React</li>
  <br>
-  Instagram Home Page Clone in React
+  <li>Instagram Home Page Clone in React</li>
  <br>
-  Etsy Home Page Clone in React
+  <li> Etsy Home Page Clone in React</li>
   
-  </h2>
+  </ul>
